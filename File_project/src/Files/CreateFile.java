@@ -24,6 +24,7 @@ public class CreateFile {
 		}
 		System.out.println("file is already deleted");
 		System.out.println("file work is done");
+		System.out.println("file work IS Clear");
 		
 	}
 
