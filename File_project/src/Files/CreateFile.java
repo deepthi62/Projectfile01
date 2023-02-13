@@ -23,6 +23,8 @@ public class CreateFile {
 		System.out.println("file is deleted successfullu");
 		}
 		System.out.println("file is already deleted");
+		System.out.println("file work is done");
+		
 	}
 
 }
